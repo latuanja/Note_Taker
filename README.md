@@ -14,7 +14,7 @@ Note Taker is an application that can be used to write, save, and delete notes. 
 * Heroku
 
 ## Demo
-![SC2 Video](assets/notetakerdemo.gif)
+![SC2 Video](public/assets/notetakerdemo.gif)
 
 ## Deployment 
 
